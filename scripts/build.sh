@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 tarball_url=https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk-2.01-src.zip
 temp_dir=$(mktemp -d /tmp/compile.XXXXXXXXXX)
 
